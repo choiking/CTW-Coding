@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tab {
+  text-align: center;
+}
+
+.step {
+  text-align: center;
+  display: none;
+}
+
+
+.selected {
+  display: block;
+}
+
